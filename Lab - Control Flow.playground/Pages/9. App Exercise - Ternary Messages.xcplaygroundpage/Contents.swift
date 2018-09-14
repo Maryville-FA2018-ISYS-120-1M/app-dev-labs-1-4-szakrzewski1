@@ -13,7 +13,7 @@ if steps < stepGoal / 2 {
 } else {
     print("Over halfway!")
 }
-
+steps < stepGoal / 2 ? steps : stepGoal / 2
 
 /*:
  
