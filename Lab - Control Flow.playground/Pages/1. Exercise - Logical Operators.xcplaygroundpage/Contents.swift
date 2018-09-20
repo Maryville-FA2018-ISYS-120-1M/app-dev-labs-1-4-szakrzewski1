@@ -41,12 +41,12 @@ print(4 >= 5)
  7. `(47 > 90) && (47 < 90)`
  */
 print(false)
-print(47 > 90 && 47 < 90)
+print(47 > 90 && 47 < 90) // proper syntax: print((47 > 90) && (47 < 90))
 /*:
  8. `(47 > 90) || (47 < 90)`
  */
 print(true)
-print(47 > 90 || 47 < 90)
+print(47 > 90 || 47 < 90) // proper syntax: print((47 > 90) || (47 < 90))
 /*:
  9. `!true`
  */
